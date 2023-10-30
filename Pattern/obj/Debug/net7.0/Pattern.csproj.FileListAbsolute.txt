@@ -1,0 +1,14 @@
+C:\Users\hbrun\source\Pattern\Pattern\obj\Debug\net7.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbrun\source\Pattern\Pattern\obj\Debug\net7.0\Pattern.AssemblyInfoInputs.cache
+C:\Users\hbrun\source\Pattern\Pattern\obj\Debug\net7.0\Pattern.AssemblyInfo.cs
+C:\Users\hbrun\source\Pattern\Pattern\obj\Debug\net7.0\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\hbrun\source\Pattern\Pattern\bin\Debug\net7.0\Pattern.exe
+C:\Users\hbrun\source\Pattern\Pattern\bin\Debug\net7.0\Pattern.deps.json
+C:\Users\hbrun\source\Pattern\Pattern\bin\Debug\net7.0\Pattern.runtimeconfig.json
+C:\Users\hbrun\source\Pattern\Pattern\bin\Debug\net7.0\Pattern.dll
+C:\Users\hbrun\source\Pattern\Pattern\bin\Debug\net7.0\Pattern.pdb
+C:\Users\hbrun\source\Pattern\Pattern\obj\Debug\net7.0\Pattern.dll
+C:\Users\hbrun\source\Pattern\Pattern\obj\Debug\net7.0\refint\Pattern.dll
+C:\Users\hbrun\source\Pattern\Pattern\obj\Debug\net7.0\Pattern.pdb
+C:\Users\hbrun\source\Pattern\Pattern\obj\Debug\net7.0\Pattern.genruntimeconfig.cache
+C:\Users\hbrun\source\Pattern\Pattern\obj\Debug\net7.0\ref\Pattern.dll
